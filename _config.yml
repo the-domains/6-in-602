@@ -2,12 +2,13 @@ name: 6 In 602
 favicon: null
 layout_spectrum: 0.04465070436708629
 typography_spectrum: 0.017150420462712646
+title: '6 In 602: Sunsets & Sunrises In AZ'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-73349047-3
   facebook: null
   twitter: null
 opengraph:
